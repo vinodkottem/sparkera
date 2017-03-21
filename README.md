@@ -1,1 +1,3 @@
 # sparkera
+
+java -version
